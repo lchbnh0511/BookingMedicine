@@ -1,5 +1,5 @@
 # Do-an-NMCNPM
-Web app bán đồ thể thao
+Web kê đơn thuốc trực tuyến
 
 Sau khi clone về chạy lệnh sau để cài đặt các denpendences:
 `npm install`
@@ -7,7 +7,6 @@ Sau khi clone về chạy lệnh sau để cài đặt các denpendences:
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
